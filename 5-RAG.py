@@ -9,14 +9,14 @@ import sql_setup
 import chromadb.utils.embedding_functions as embedding_functions
 import chromadb
 openai_ef = embedding_functions.OpenAIEmbeddingFunction(
-                api_key="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",
+                api_key="YOUR_OPENAI_APIKEY",
                 model_name="text-embedding-3-small"
             )
-google_ef  = embedding_functions.GoogleGenerativeAiEmbeddingFunction(api_key="AIzaSyAB-aVF3-4qNk_tnogbA3bNTxq1-mDXNe4")
+google_ef  = embedding_functions.GoogleGenerativeAiEmbeddingFunction(api_key="YOUR_GOOGLE_APIKEY")
 
 
 
-api_key = "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"
+api_key = "YOUR_OPENROUTER_APIKEY"
 from openai import OpenAI
 
 import os
