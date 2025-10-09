@@ -34,7 +34,7 @@ Before running the scripts, ensure the following setup steps are completed:
      - **Tip:** The `directory` field is crucial and is case-sensitive.
 
 2. **API Keys**
-   - In `3-LLMCorrections.py` and `4-ChromaIndex.py`, insert your API keys where indicated to enable access to required services.
+   - In `3-LLMCorrections.py`, `4-ChromaIndex.py` and `6-VpTree`, insert your API keys where indicated to enable access to required services.
 
 ---
 
