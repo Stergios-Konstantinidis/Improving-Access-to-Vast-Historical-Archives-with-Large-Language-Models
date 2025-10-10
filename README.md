@@ -13,7 +13,7 @@ This project is organized into a series of scripts designed to process and analy
    - **Purpose:** Utilizes large language models to clean, correct, and post-process the OCR results, improving text accuracy.
 
 ### **4-ChromaIndex.py**
-   - **Purpose:** (Add a brief description of what this script does, e.g., "Indexes the processed documents for efficient retrieval using Chroma.")
+   - **Purpose:** Indexes the processed documents for efficient retrieval using ChromaDB, designed to work with all-mini-lm6, open-ai and vertex ai embeddings
 
 ### **5-RAG.py**
    - **Purpose:** (Add a brief description, e.g., "Implements Retrieval-Augmented Generation for advanced querying and analysis.")
