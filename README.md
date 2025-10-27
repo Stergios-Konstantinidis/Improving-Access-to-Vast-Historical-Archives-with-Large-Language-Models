@@ -16,10 +16,10 @@ This project is organized into a series of scripts designed to process and analy
    - **Purpose:** Indexes the processed documents for efficient retrieval using ChromaDB, designed to work with all-mini-lm6, open-ai and vertex ai embeddings
 
 ### **5-RAG.py**
-   - **Purpose:** (Implements Retrieval-Augmented Generation for advanced querying and analysis.)
+   - **Purpose:** Implements Retrieval-Augmented Generation for contextual querying.
 
 ### **6-VP tree.py**
-   - **Purpose:** (Vantage-point index for fast search)
+   - **Purpose:** Vantage-point index for fast kNN search across embeddings.
 
 > **Note:**  
 > Run each script sequentially for optimal results.
