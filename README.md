@@ -18,8 +18,8 @@ This project is organized into a series of scripts designed to process and analy
 ### **5-RAG.py**
    - **Purpose:** (Implements Retrieval-Augmented Generation for advanced querying and analysis.)
 
-### **6-VP.py**
-   - **Purpose:** (VP-point indexing for fast search)
+### **6-VP tree.py**
+   - **Purpose:** (Vantage-point index for fast search)
 
 > **Note:**  
 > Run each script sequentially for optimal results.
