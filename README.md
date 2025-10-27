@@ -35,6 +35,8 @@ Before running the scripts, ensure the following setup steps are completed:
    - Execute the cells in `create_sql_tables.ipynb` (run once).
    - Manually populate the `newspapers` and `newspaper_issues` tables.  
      - **Tip:** The `directory` field is crucial and is case-sensitive.
+     
+     <img src="data/github ressources/UML.png" />
 
 2. **API Keys**
    - In `3-LLMCorrections.py`, `4-ChromaIndex.py` and `6-VpTree`, insert your API keys where indicated to enable access to required services.
