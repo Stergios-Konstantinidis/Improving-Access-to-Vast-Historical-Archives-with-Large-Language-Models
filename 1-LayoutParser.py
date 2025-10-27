@@ -31,7 +31,7 @@ model = lp.models.Detectron2LayoutModel(config_path ='config.yml',
                                  label_map={0: "Text", 1: "Title", 2: "List", 3:"Table", 4:"Figure"})
 
 def generate_entries(model=model, cursor=cursor):
-
+    # Fetch newspaper issues to process
     cursor.execute("SELECT directory, id, date FROM newspaper_issues where id not in (select newspaper_issue_id from Layout_Parser_for_RAG)") 
     files = cursor.fetchall()
 
