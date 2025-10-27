@@ -16,7 +16,10 @@ This project is organized into a series of scripts designed to process and analy
    - **Purpose:** Indexes the processed documents for efficient retrieval using ChromaDB, designed to work with all-mini-lm6, open-ai and vertex ai embeddings
 
 ### **5-RAG.py**
-   - **Purpose:** (Add a brief description, e.g., "Implements Retrieval-Augmented Generation for advanced querying and analysis.")
+   - **Purpose:** (Implements Retrieval-Augmented Generation for advanced querying and analysis.)
+
+### **6-VP.py**
+   - **Purpose:** (VP-point indexing for fast search)
 
 > **Note:**  
 > Run each script sequentially for optimal results.
@@ -41,4 +44,5 @@ Before running the scripts, ensure the following setup steps are completed:
 By following these steps and updating the necessary parameters, you will be able to process and analyze historical archives efficiently using this pipeline.
 
 If you encounter any issues, please contact me: stergios@unil.ch 
-Data files are limited as some of the publication agencies still exist and their work is copywright protected.
+
+Library data in this repository are not complete due to copyright.
