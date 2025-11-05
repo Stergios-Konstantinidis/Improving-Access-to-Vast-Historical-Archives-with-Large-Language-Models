@@ -1,3 +1,5 @@
+## Project Description
+We use LLMs for Cultural Digital Archives. We use the LLMs to correct OCR errors (remove noise) and for RAG purposes. Our results show that LLMs and improve OCR (WER & CER metrics), and read to improved information retrieval compared to the non-noise-cleaned versions of the digital archives.
   
 ## Project Structure
 
