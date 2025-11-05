@@ -1,5 +1,13 @@
 ## Project Description
 We use LLMs for Cultural Digital Archives. We use the LLMs to correct OCR errors (remove noise) and for RAG purposes. Our results show that LLMs and improve OCR (WER & CER metrics), and read to improved information retrieval compared to the non-noise-cleaned versions of the digital archives.
+
+<img width="528" height="334" alt="image" src="https://github.com/user-attachments/assets/540be5c1-7836-4226-99d5-776d690ce222" />
+
+We also use metric trees to speedup the kNN search of RAG for faster retrieval of large archives. We see a drastic reduction in the number of embeddings retrieved for the RAG search, without any false dismissals (eg compared to using approximate nearest neighbors).
+
+<img width="718" height="244" alt="image" src="https://github.com/user-attachments/assets/1c7fd1d4-49b3-452f-ba71-50bfc6eb6cda" />
+
+
   
 ## Project Structure
 
