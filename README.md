@@ -73,7 +73,7 @@ If you encounter any issues, please contact me: stergios@unil.ch
 Library data in this repository are not complete due to copyright.
 
 
-## demo
+## Demo
 A demo application is provided in the `demo` folder. It uses Streamlit to showcase the LayoutParser functionality and Tesseract OCR integration.
 To run the demo, navigate to the `demo` folder and execute:
 ```
