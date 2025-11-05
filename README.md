@@ -37,7 +37,7 @@ This project is organized into a series of scripts designed to process and analy
 ---
 
 ## Queries
-We evaluate the historical archives using [131 questions]("/data/ragas evaluation questions.csv"), which are of the following categories:
+We evaluate the historical archives using [131 questions](data/ragas%20evaluation%20questions.csv), which are of the following categories:
 
 | Category          | Count |
 |:------------------|------:|
