@@ -36,6 +36,19 @@ This project is organized into a series of scripts designed to process and analy
 
 ---
 
+## Queries
+We evaluate the historical archives using 131 questions, which are of the following categories:
+
+| Category          | Count |
+|:------------------|------:|
+| Sociocultural     | 59 |
+| Numeric           | 17 |
+| Historic          | 17 |
+| Politics          | 13 |
+| Address           | 7 |
+| Reliability check | 5 |
+
+
 ## Configuration Instructions
 
 Before running the scripts, ensure the following setup steps are completed:
