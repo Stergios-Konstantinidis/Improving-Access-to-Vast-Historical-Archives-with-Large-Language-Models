@@ -7,6 +7,9 @@ We also use metric trees to speedup the kNN search of RAG for faster retrieval o
 
 <img width="718" height="244" alt="image" src="https://github.com/user-attachments/assets/1c7fd1d4-49b3-452f-ba71-50bfc6eb6cda" />
 
+Some indicative RAG results for three user queries can be seen below.
+
+<img width="410" height="472" alt="image" src="https://github.com/user-attachments/assets/3eb0569d-19e3-4caa-8010-82813e7e8304" />
 
   
 ## Project Structure
