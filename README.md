@@ -42,14 +42,15 @@ This project is organized into a series of scripts designed to process and analy
 ## Queries
 We evaluate the historical archives using [131 questions](data/ragas%20evaluation%20questions.csv), which are of the following categories:
 
-| Category          | Count |
-|:------------------|------:|
-| Sociocultural     | 59 |
-| Numeric           | 17 |
-| Historic          | 17 |
-| Politics          | 13 |
-| Address           | 7 |
+| category | count |
+|:-----------|--------:|
+| Sociocultural | 68 |
+| Historic | 18 |
+| Numeric | 17 |
+| Politics | 16 |
+| Address | 7 |
 | Reliability check | 5 |
+
 
 
 ## Configuration Instructions
