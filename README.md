@@ -72,9 +72,7 @@ Before running the scripts, ensure the following setup steps are completed:
 
 By following these steps and updating the necessary parameters, you will be able to process and analyze historical archives efficiently using this pipeline.
 
-If you encounter any issues, please contact me: stergios@unil.ch 
-
-Library data in this repository are not complete due to copyright.
+Note: The library data in this repository are not the complete ones used in the paper publication owing to copyright reasons.
 
 
 ## Demo
